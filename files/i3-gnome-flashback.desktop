@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Name=i3-gnome-flashback
+Comment=Improved dynamic tiling window manager
+Exec=i3-gnome-flashback
+NoDisplay=true
+X-GNOME-WMName=i3-gnome-flashback
+X-GNOME-Autostart-Phase=WindowManager
+X-GNOME-Provides=windowmanager
+X-GNOME-Autostart-Notify=false
