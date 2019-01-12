@@ -16,6 +16,10 @@ Then install i3-gnome-flashback:
 ```
 sudo make install
 ```
+And to prevent Nautilus from taking over the screen upon login, run this:
+```
+gsettings set org.gnome.desktop.background show-desktop-icons false
+```
 
 For other distributions, clone this repository and run `make install` with root priviledges.
 
