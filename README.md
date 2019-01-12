@@ -6,4 +6,16 @@ This has been tested working on GNOME version **3.28**.
 
 # Installation
 
-For Arch users see the [AUR package](https://aur.archlinux.org/packages/i3-gnome-flashback/) for a more easy intallation. For other distributions, clone this repository and run `make install` with root priviledges.
+For Arch users see the [AUR package](https://aur.archlinux.org/packages/i3-gnome-flashback/) for a more easy intallation.
+
+For Ubuntu (tested 18.04), ensure prerequisites are installed:
+```
+sudo apt install i3 gnome-flashback build-essential
+```
+Then install i3-gnome-flashback:
+```
+sudo make install
+```
+
+For other distributions, clone this repository and run `make install` with root priviledges.
+
