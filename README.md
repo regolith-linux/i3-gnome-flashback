@@ -2,13 +2,13 @@
 
 Allows you to use i3 in a GNOME-Flashback session. Large parts of this are based on the existing [`i3-gnome`](https://github.com/lvillani/i3-gnome) project.
 
-This has been tested working on GNOME version **3.28**.
+This has been tested working on GNOME version **3.34**.
 
 # Installation
 
 For Arch users see the [AUR package](https://aur.archlinux.org/packages/i3-gnome-flashback/) for a more easy intallation.
 
-For Ubuntu (tested 18.04), ensure prerequisites are installed:
+For Ubuntu (19.10), ensure prerequisites are installed:
 ```
 sudo apt install i3 gnome-flashback build-essential
 ```
