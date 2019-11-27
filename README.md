@@ -23,3 +23,6 @@ gsettings set org.gnome.desktop.background show-desktop-icons false
 
 For other distributions, clone this repository and run `make install` with root priviledges.
 
+# Notes
+
+To understand how the files in this repo work to initialize an i3 and GNOME session, refer to this [GNOME wiki](https://wiki.gnome.org/Projects/SessionManagement/RequiredComponents) on session management.
